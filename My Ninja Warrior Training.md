@@ -36,15 +36,15 @@ The final stage (aka Mt. )
 * Grab & Swing
 * Arm Traverse
 
-### Indentified Sub-Skills
+### Identified Sub-Skills
 
 * Arm Traverse
-* Unstabale Running
+* Unstable Running
 * Maintain/Control Swing Momentum
 * Dynamic Gripping Strength
 * Chimney Climb Movement
 * Chimney Climb Catch
-* Running Trampline Jumps
+* Running Trampoline Jumps
 * Bar Jumps
 * Grip Catch Consistency
 
