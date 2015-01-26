@@ -73,6 +73,7 @@ This listing made it much easier for me to break the total collection into a muc
 * Arm Traverse
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Using these categories and my qualitative analysis of the individual obstacle descriptions, with help from all the time I've spent watching Ninja Warrior videos, I started breaking the major categories into simpler to train sub-skills. 
 
 The final goal here is to identify 5-10 of the most important sub-skill. Even this list can be broken down further, but here's the point:
@@ -84,6 +85,9 @@ The final goal here is to identify 5-10 of the most important sub-skill. Even th
 That being said, here are **the most important Ninja Warrior sub-skills** I've identified based on my analysis of previous obstacles and categories.
 
 ### Indentified Sub-Skills
+=======
+### Identified Sub-Skills
+>>>>>>> FETCH_HEAD
 =======
 ### Identified Sub-Skills
 >>>>>>> FETCH_HEAD
