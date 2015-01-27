@@ -17,7 +17,7 @@ You should make yourself uncomfortable. You must become at peace with being unco
 
 But, right after submitting my audition video for American Ninja Warrior (below), I realized I wasn't *making myself uncomfortable*. My training has been focused on a few things I enjoy - bouldering, wrestling and muay thai. Sure,  bouldering is fantastic for grip strength, plus wrestling and muay thai help me build cardio, flexibility and balance.
 
-This type of training approach is very broad, however. I realized, I'm not focused enough. I'm not following my own advice on [how to be awesome at any skill](http://flowathletics.com/3-steps-to-be-awesome-at-any-skill/. Specifically, I haven't broken American Ninja Warrior down into sub-skills, so I can *practice efficiently and measure improvements quickly*. 
+This type of training approach is very broad, however. I realized, I'm not focused enough. I'm not following my own advice on [how to be awesome at any skill](http://flowathletics.com/3-steps-to-be-awesome-at-any-skill/). Specifically, I haven't broken American Ninja Warrior down into sub-skills, so I can *practice efficiently and measure improvements quickly*. 
 
 https://www.youtube.com/watch?v=ZeglpcY7Bp8
 
