@@ -1,104 +1,229 @@
-# My Ninja Warrior Training - MUST HAVE BETTER TITLE
+# Breaking Down 79 Ninja Warrior Obstacles Into Bite-Sized Chunks
+ 
+## Here's how I used lessons from Tim Ferriss and Arianna Huffington to identify the 6 most important sub-skills for American Ninja Warrior and how you can use my approach to crush any competition.
 
-title ideas:
-X unexpected skills you need to win at ninja warrior
-Learn How I Found The X Most Important Skills For Ninja Warrior And How You Can Use My Approach To Train For Any Competition
+What's the point of learning and teaching about optimal performance if you don't put it into daily practice? This is the story of why I kicked myself just when I thought my Ninja Warrior training was going so well.
 
-subtitle:
-What's the point of learning and teaching about optimal performance if you don't put it into daily practice? Here's why I kicked myself just when I thought my training was going so well ...
+...
 
 Getting prepared for your most important performance doesn't feel good. 
 
 Or at least it shouldn't. 
 
-You should make yourself uncomfortable. You must become at peace with being uncomfortable. 
+You should feel uncomfortable. In fact, you must become at peace with being uncomfortable. Josh Waitzkin, of *Searching for Bobby Fischer* fame, said it best: 
 
->We cannot calculate our important contests, adventures, and great loves to the end. The only thing we can really count on is getting surprised. No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain. - [Josh Waitzkin](http://amzn.to/1LbfGrF)
+>We cannot calculate our important contests, adventures, and great loves to the end. The only thing we can really count on is getting surprised. No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain. - [Josh Waitzkin, "The Art of Learning"](http://amzn.to/1LbfGrF)
 
-But, right after submitting my audition video for American Ninja Warrior (below), I realized I wasn't *making myself uncomfortable*. My training has been focused on a few things I enjoy - bouldering, wrestling and muay thai. Sure,  bouldering is fantastic for grip strength, plus wrestling and muay thai help me build cardio, flexibility and balance.
+I know this to be true. I live and breath this philosophy. I preach it to [my wrestlers](http://www.gonyuathletics.com/news/2015/3/1/WREST_0301151053.aspx).
 
-This type of training approach is very broad, however. I realized, I'm not focused enough. I'm not following my own advice on [how to be awesome at any skill](http://flowathletics.com/3-steps-to-be-awesome-at-any-skill/). Specifically, I haven't broken American Ninja Warrior down into sub-skills, so I can *practice efficiently and measure improvements quickly*. 
+But, right after submitting and re-watching my audition video for American Ninja Warrior, I realized my training wasn't  *making me uncomfortable*.
 
 https://www.youtube.com/watch?v=ZeglpcY7Bp8
 
-## About ANW
+My Ninja Warrior training has been focused on a few things I enjoy - bouldering, wrestling and muay thai. And sure, bouldering is fantastic for grip strength, muscular endurance and a specific type of balance. Plus wrestling and muay thai help me build cardio, flexibility and overall balance.
 
-American Ninja Warrior is a sports entertainment competition spin-off of the television series Sasuke, in which competitors try to complete a series of obstacle courses of increasing difficulty called "stages". 
+However, my current training approach is broad. Too broad. The day I submitted my video, I realized I'm not focused enough. 
+
+I'm not following my own advice on [how to *be awesome at any skill*](http://flowathletics.com/3-steps-to-be-awesome-at-any-skill/). Specifically, here's what I'd been doing wrong: 
+
+I hadn't broken American Ninja Warrior down into sub-skills, so I could practice each little, sub-skill *efficiently and measure improvements quickly*.
+
+BONUS: Get my analysis of all 79 Ninja Warrior Obstacles, the number of times they were used and specific sub-skills needed to surpass them. 
+
+But no more! We won't fall victim to training without a plan. Let's get to that in a minute. But first - 
+
+### A Little Bit About American Ninja Warrior
+
+American Ninja Warrior is a sports entertainment competition spin-off. The original show, Sasuke, was developed in Japan. The goal for the competitors is to complete a series of obstacle courses in a set of increasingly difficult stages. 
 
 So far, **no one has won the grand prize**.
 
-## Rules Analysis
+### American Ninja Warrior Rules Analysis
 
-In my research on the AWN obstacles, I found this fantastic discussion on the cultural differences between Japan and America as exemplified by the [rule changes between Sasuke (the Japanese version of Ninja Warrior) and American Ninja Warrior](http://therulesonthefield.com/2012/06/04/comparative-analysis-ninja-warrior/). 
+In my research on AWN obstacles, I found [a fantastic discussion on the rule differences between Japanese and American Ninja Warrior](http://therulesonthefield.com/2012/06/04/comparative-analysis-ninja-warrior/). What's really interesting is that these rule changes can be used as a proxy for understanding some of the differences between Japanese and American culture. 
 
-> These changes shift the overall goal from a contest of strength, an exploration of man vs. the limits of his own endurance, into a competition between men for victory.
+The basic takeaway is the following: 
 
-### Analyzing The Obstacles
+> These [rule] changes shift the overall goal [of American Ninja Warrior] from a contest of strength, an exploration of man vs. the limits of his own endurance, into a **competition between men** for victory.
+
+Hey, I'm alright with that. Whatever gets me to the top of Mt. Midoriyama. 
+
+### Now We Can Take A Look At The Obstacles
 Wikipedia, as usual, proves to be a great resource for collecting data. Here is the [List of Sasuke Stages And Obstacles](http://en.wikipedia.org/wiki/List_of_Sasuke_stages)
 
 [Insert pics of the Obstacle charts]
 
-
 #### First Stage
-The First Stage is primarily a test of your speed. The object is to hit a buzzer when you reach the end of the stage. The typical elimination rate is 90. This stage has recently been redesigned to be much more difficult, to even further reduce the number of completions. 
+The First Stage is primarily a test of your speed. The object is to hit a buzzer when you reach the end. 
 
-### Second Stage
+To get a sense of the show's level a difficulty, you should know that the typical elimination rate *on the first stage* is 90%. Due to an overwhelming number of auditions, this stage has recently been redesigned to be much more difficult; to even further reduce the number of completions. 
+
+#### Second Stage
 Only superficially different from the First Stage, the Second Stage is more of the grueling same. I'd say the Second Stage is more of a test of strength and flexibility compared to the first, especially considering obstacles like the Swap Salmon Ladder, the Wall Lift and the Spider Walk, respectively.
 
-### Third Stage
-The Third Stage is a test of 2 things upper body stamina (especially grip stamina) and mental fortitude. There is no time limit, it's just you versus your physical limits.
+#### Third Stage
+The Third Stage is a test of two things: upper body stamina (especially grip stamina) and mental fortitude. There is no time limit, it's just you versus your physical limits. 
 
 According to Wikipedia:
 
 >The Third Stage is so grueling that, on average, someone passes it only every other competition. Only 22 individuals have ever passed it, and only four have passed it more than once.
 
-### Final Stage
-The final stage (aka Mount Midoriyama) is a straight shot up with a time limit of 30-45 seconds. This stage has changed 6 times, starting with a vanilla rope climb and recently was changed to 
+I think the Third Stage embodies the heart of Ninja Warrior. 
+
+#### Final Stage
+The final stage (aka Mt. Midoriyama) is a straight shot up with a time limit of 30-45 seconds. This stage has changed 6 times, starting with a vanilla rope climb and recently was changed to include both a spider wall and a rope climb. The height of the tower is now at 24 meters. 
 
 Typically, only one or two people make it to the Final Stage, if any make it at all.
 
+#### Unfamiliar Terrain
+
+As Josh Waitzkin taught us, we must expect "unfamiliar terrain". The Ninja Warrior production crew is a good example of an unexpected obstacle. Even on stages without a time-limit, word has it, the production crew is in your ear telling you to hurry up, getting on your case if you take a break. 
+
+Be prepared for unfavorable conditions. We must be prepared to tune out real and artificial distractions. To do what that which gives us the best chance of winning.  
+
 ---
 
-So that's a nice overview of the stages and all, but what I really care about are the obstacles. Sure, each stage has a different broad focus, but obstacle types can repeat across stages with little to no pattern. Just because stage two has more strength obstacles than stage one, doesn't mean you won't have to run over a rolling log at any point.  
+So, that's a nice overview of the stages and all, but what I really care about are the obstacles. 
 
-Plus, we want to get good at Ninja Warrior, not just a particular stage. So we have to [break the total contest down to sub-skills](http://flowathletics.com/3-steps-to-be-awesome-at-any-skill/). The first step is to organize the obstacles in a way that made sense to me.
+Sure, each stage has a different broad focus, but obstacle types can repeat across stages with little to no obvious pattern. Just because stage two has more strength obstacles than stage one, doesn't mean you won't have to run over a rolling log at any point.  
 
-I had my virtual assistant put together a spreadsheet listing every obstacle, the number of times it was used and a brief description copied from Wikipedia.
+Plus, we want to get good at Ninja Warrior, not just a particular stage. So we have to [break the total contest down to sub-skills](http://flowathletics.com/3-steps-to-be-awesome-at-any-skill/). 
 
-[insert pic & link to spreadsheet (collect email?)]
+And the first step was to organize the obstacles in a way that made sense to me.
 
-This listing made it much easier for me to break the total collection into a much more manageable listing of major categories:
+I put together a spreadsheet listing every obstacle, the number of times it was used and a brief description copied from Wikipedia. You can get that spreadsheet here - [Bonus Download]
 
-* Jumping Dexterity
-* Grab & Swing
-* Arm Traverse
+This listing made it much easier for me to break the total collection of obstacles into a much more manageable set of skill categories:
 
-Using these categories and my qualitative analysis of the individual obstacle descriptions, with help from all the time I've spent watching Ninja Warrior videos, I started breaking the major categories into simpler to train sub-skills. 
+* Arm Traverse and Dynamic Grip Strength
+* Jumping Dexterity / Unstable Running 
+* Explosive Strength
+* Chimney Climb Catch and Movement
+* Wall Run
 
-The final goal here is to identify 5-10 of the most important sub-skill. Even this list can be broken down further, but here's the point:
+Using these categories and my qualitative analysis of the individual obstacle descriptions (aka watching every season of Ninja Warrior) I can identify 5-10 of the most important sub-skill. 
 
-> The level you are trying to get to is where you can practice efficiently and measure improvement quickly
+Even this list can be broken down further, but that's not the point. When breaking a challenge down into sub-skill, here's what matters:
+
+> In prepping for any contest, the goal is to practice efficiently and measure improvement quickly.
 
 [tweet this]
 
-That being said, here are, in my opinion, **the most important Ninja Warrior sub-skills**.
+That being said, here are, in my opinion, **the most important skills for beating American Ninja Warrior**.
 
 ### Identified Sub-Skills
-* Arm Traverse - moving from one location to another using just, or mainly, your arms. **Example obstacles:** Delta Bridge/Grip Hang, Swing Ladder, Unstable Bridge, Arm Rings, Rumbling Dice, Spider Flip.
-* Unstable Running/Jumping - Running or jumping while maintaining your balance on an unstable surface. **Example obstacles:** Barrel Climb, Quintuple Step, Prism See-Saw, Cone Jump, Hurdle Jump, Dome Steps, etc.
-* Maintain/Control Swing Momentum - Similar skill to the arm traverse, but here we focus more on maintaining our grip while making sure your swing takes you where you need to go. **Example obstacles:** 
-* Dynamic Gripping Strength
-* Chimney Climb Movement - Once you are wedged between two parallel walls, being able to move around without falling is key to many obstacles. **Example obstacles:** Spider Walk, Spider Climb, Body Prop, Spider Jump.
-* Chimney Climb Catch - Not a lot of obstacle here, but the one that trips everyone up - **the dreaded Jumping Spider**. You have to jump from a trampoline into a shaft of parallel walls 5ft apart and catch yourself there by wedging your feet and arms between the walls. This obstacle trips so many people up that, that I'm dedicating special focus to it. One key to success will be flexibility - my side-split is barely at the 5ft mark. I'll need to get it to at least 5'6" to be comfortable here. 
-* Running Trampoline Jumps - many ANW competitors neglect this sub-skill. But hitting that trampoline just right is key in many obstacles. **Example obstacles:** Jumping Spider (of course), Reverse Fly, Jump Hang.
-* Bar Movement - Holding a bar (or something similar) and using your bodyweight to move it. **Example obstacles:** Salmon ladder, Rumbling Dice, Propeller Bars, Swing Ladder.
-* Grip Catch Consistency - 
 
-In my next post, I'll explore simple training exercises we can incorporate to effectively train each sub-skill. Wish me luck, because I have no idea what we'll do for the chimney climb catch.
+| Sub-skill                            | Description                                                                                                                                                                                                                                                                                                                                 | Sample Obstacles                                                                                       |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Arm Traverse                         | Moving from one location to another using just, or mainly, your arms.                                                                                                                                                                                                                                                                       | Delta Bridge/Grip Hang, Swing Ladder, Unstable Bridge, Arm Rings, Rumbling Dice, Spider Flip.          |
+| Jumping Dexterity / Unstable Running | Jumping or running to and from unstable or small, awkwardly positioned surfaces.                                                                                                                                                                                                                                                            | Sextuple Step, Downhill Jump, Stick Slider, Long Jump, Cone Jump, Dome Steps, Log Dangle, Drum Hopper |
+| Dynamic Grip Strength                | Control the momentum of your jump, identify the type of grip that'll work best when you catch yourself and be very precise with where your hands land on the "target".                                                                                                                                                                      | Crazy Cliff Hanger, Hang move/chain swing, Ultimate Cliff Hanger, Floating Boards, Chain See-Saw       |
+| Explosive Strength                   | Your success on these obstacles will be dependent on your power and strength, mainly in the legs. So get those squat muscles ready.                                                                                                                                                                                                         | Wall lift, reverse conveyor, passing walls, tackle machine                                             |
+| Chimney Climb Movement               | Once you are wedged between two parallel walls, being able to move around without falling is key to many obstacles.                                                                                                                                                                                                                         | Spider Walk, Spider Climb, Body Prop, Spider Jump                                                      |
+| Chimney Climb Catch                  | Not a lot of obstacle here, but the one that trips everyone up - **the dreaded Jumping Spider**. You have to jump from a trampoline into a shaft of parallel walls 5ft apart and catch yourself there by wedging your feet and arms between the walls. This obstacle trips so many people up that, that I'm dedicating special focus to it. | Spider Jump                                                                                            |
+| Running Trampoline Jumps             | Many ANW competitors neglect this sub-skill. But hitting that trampoline just right is key in many obstacles                                                                                                                                                                                                                                | Jumping Spider (of course), Reverse Fly, Jump Hang                                                     |
 
-## Conclusion
+One thing you have to realize is that I'm developing my own vocabulary here. I'm developing a way to define and refer to the sub-skills we need to be successful in Ninja Warrior. 
 
-The hardest part, of course, is not in the planning but in the execution. I've found that even though I know what skills I need to train, it's been all to easy to fall back on generalized training. It's much simpler and less *uncomfortable* to spend an hour climbing vs. spending 20 minutes working on pinch grip strength and 30 minutes on chimney catches.
+My vocabulary might be different from your vocabulary, and that's OK. But, the big mistake we must all avoid, is developing no vocabulary at all!
+
+There are other common movements and skills necessary for Ninja Warrior and we won't be able to devote equal time to every skill on this list. So as a next step, I would go through and prioritize each *sub-skill* based on my personal strengths and weaknesses. 
+
+## Training Approach
+
+So, how can I turn my learnings into actionable training advice? Well, here's where it gets fun. 
+
+### Dynamic Grip Strength / Arm Traverse
+
+I'm going to ignore rock climbing and bouldering as training exercises. Yes, they are some of the best ways to challenge yourself and improve your grip strength, but I'm looking to find *focused* exercises to do the same thing. 
+
+Plus, not all of us have easy access to a rock wall.
+
+Jumping to an obstacle and catching yourself with your hands isn't just about grip strength (although that helps a ton). You also have to control the momentum of your jump, identify the type of grip that'll work best when you catch yourself and be very precise with where your hands land on the "target".
+
+#### Beginner Grip Exercises
+
+1. Two Hands Pinch Lift - for holds.
+2. Finger curls with an Olympic Bar, overhand grip. Hold it on the last set when you can't do anymore finger curls.
+3. Two Hand Wrist Curl. Normal, with a comfortable range of motion. Do not let the bar go into your fingertips like some bodybuilders do, also do them with your thumb under the bar as you are training your wrists and don't want to fight against the thumb digit on top of the bar.
+4. Two Hands Reverse Wrist Curl.
+
+Do the Pinch holds for 10-15 seconds, and the other exercises for 15-20 reps.
+
+source: http://www.davidhorne-gripmaster.com/basics.html
+
+#### Traverse Exercises
+
+**Jumping towel catch** - hang a towel from you pull up bar or anywhere high enough that you have to jump to catch it. Hold for 5 sec. Repeat.
+
+**Rope/Ring Pass** - Two climbing ropes or ring, as wide apart as you can hang them. Start on one, without a swing. 
+
+Without touching the ground, get the rope swinging, until you can grab the second rope.
+
+Transfer to the second rope. 
+
+Rinse and repeat to failure
+
+#### Extra Tools
+* [Metolius Simulator 3D Training Board](http://www.amazon.com/Metolius-Simulator-Training-Board-Swirl/dp/B002N53RAA)
+* [Metolius Rock Rings 3D](http://www.amazon.com/Metolius-Rock-Rings-3D-Blue/dp/B002N55HDK)
+* [The Pro Hand Exerciser](http://www.amazon.com/gp/product/B000UMHUSI/)
+
+### Jumping Dexterity / Unstable Running
+
+[Agility ladder](http://amzn.to/1H6xFwe) work - I'm not going to reinvent the wheel here. The top Google result for [Agility Ladder Drills](http://www.kingsportstraining.com/blogs/training-blog/7694405-13-speed-and-agility-ladder-drills-videos-for-faster-footwork). 
+
+Force yourself to work with narrower targets; it will help the precision of your landings.
+
+To be honest though, I probably just need one of [these bad-boys](http://easupply.net/vault-master.html). 
+
+### Explosive Strength
+
+Good old Olympic and power lifts are best here.
+
+* Deadlift
+* Squat
+* Snatch
+* Clean and jerk
+
+### Chimney Catch and Chimney Climb
+
+Stretching and flexibility are your friends.
+
+Two legged jump to a measured distance of 4.5 feet. My training partner, Tommy filled me in on his secret - measure a 4.5 ft gap on your bed or couch. 
+
+(Before you try this at home, make sure the bed or couch won't move and break your wall. I take no responsibility if your girlfriend kills you.)
+
+Start back about 3-4 ft and broad jump so your feet hit the tape marks.
+
+We should also work on some strength building. 
+
+**Abductors**
+https://www.youtube.com/watch?v=pvnR8CDb4BU
+
+**Cross-over cable extensions**
+https://www.youtube.com/watch?v=mQKXj9cvEbA
+
+Or ... find two building, built really close together.
+
+#### Insider Technique Tip
+For the spider jump, have your thumbs point down and away from you for the catch.
+
+### Wall Run
+
+The wall doesn't have to curved to practice running up it. Find a brick wall, put some tape about 12-14 feet up and practice touching it with 2-3 steps on the wall. 
+
+Skate parks are a great place to find warped walls. 
+
+If you want to get real science-y though, Ethan Seigel has a great writeup on the [Physics of the Warped Wall](https://medium.com/starts-with-a-bang/the-physics-of-the-warped-wall-2699105142f4).
+
+## The Devil is In The Execution
+
+The hardest part, of course, is not in the planning but in the execution. I've found that even though I know what skills I need to train, it's been all too  easy to fall back on generalized training. Generalized training is much simpler and, honestly, it's less *uncomfortable* to spend an hour climbing versus spending 20 minutes working on pinch grip strength and 30 minutes on chimney catches.
+
+Stay tuned. In a future post, I'll explore some of these training exercises and see if I can get some video footage for you. Wish me luck, because I have no idea what we'll do for the chimney climb catch.
+
+BONUS: Get my analysis of all 79 Ninja Warrior Obstacles, the number of times they were used and specific sub-skills needed to surpass them. 
 
 ----
 
@@ -111,4 +236,5 @@ Physics of Ninja Warrior http://www.wired.com/2012/03/physics-of-the-ninja-warri
 Ninjafit.com - obstacle write ups 
 Doug Prater 
 
+https://medium.com/starts-with-a-bang/the-physics-of-the-warped-wall-2699105142f4
 
