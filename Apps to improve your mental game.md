@@ -17,7 +17,7 @@ It was a breath of fresh air. My 3 year old Galaxy S3 is smooth as butter again.
 
 Wait a second. These apps are all the same: press to launch, use thumb scroll, turn brain off.
 
-Sure, they can be nice to see what the rest of the world is up to or and it's good to turn off every once in a while. But we can do better.
+Sure, it can be nice to see what the rest of the world is up to, and it's good to turn off every once in a while. But we can do better.
 
 Let's take a look at some apps we can actively use for growth and self-improvement. Apps we can use to enhance our mindset, optimize our nutrition, track our fitness and fine-tune technique.
 
