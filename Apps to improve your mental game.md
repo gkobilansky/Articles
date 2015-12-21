@@ -1,10 +1,12 @@
+##### Use your phone to live the life you dream, instead of letting it control your life.
+
 "Why won't you type 'T'?"
 
 "What is this weird 'Service Message Not Found' thing that's popping up?"
 
-"I'm this close to throwing my phone against the wall and buying a new one."
+"I'm this close ... I'm gonna thow this thing against the wall."
 
-Luckily, my friend Logan Lo convinced me otherwise. Instead, I wiped my phone, got rid of all the apps and reinstalled the operating system (for you tech geeks out there, I actually installed [Cyanogenmod](http://www.cyanogenmod.org/)).
+Luckily, my friend [Logan Lo](http://loganlo.com/) convinced me otherwise. Instead, I wiped my phone, got rid of all the apps and reinstalled the operating system (for you tech geeks out there, I actually installed [Cyanogenmod](http://www.cyanogenmod.org/)).
 
 It was a breath of fresh air. My 3 year old Galaxy S3 is smooth as butter again. But, a bunch of the apps I used daily were gone. Time to reinstall 'em:
 
@@ -15,15 +17,17 @@ It was a breath of fresh air. My 3 year old Galaxy S3 is smooth as butter again.
 
 ...
 
-Wait a second. These apps are all the same: press to launch, thumb scroll, turn brain off.
+Wait a second. These apps are all the same: press to launch, turn brain off, thumb scroll.
 
-Sure, it can be nice to see what the rest of the world is up to, and it's good to turn off every once in a while. But we can do better.
+Sure, it can be nice to see what the rest of the world is up to, and it's good to turn off every once in a while. 
+
+But we can do better.
 
 Let's take a look at some apps we can actively use for growth and self-improvement. Apps we can use to enhance our mindset, optimize our nutrition, track our fitness and fine-tune technique.
 
 Just a quick note - I use these apps on Android, but I included links to the same or similar apps on iPhone where I could find them.
 
-## Tools to Organize your Life
+## Tools To Organize Your Life
 
 I want you to remember that all tools are useless without the foundation of mission and leadership to use them appropriately. 
 
@@ -43,8 +47,8 @@ Otherwise I also use Evernote to save ideas, and write down drafts or quick idea
 
 Especially useful is the search feature. I can find most notes easily by typing in a vague description.
 
-[Android](https://play.google.com/store/apps/details?id=com.evernote&hl=en)
-[iPhone](https://itunes.apple.com/us/app/evernote/id281796108?mt=8)
+[<i class="fa fa-android"></i> Android](https://play.google.com/store/apps/details?id=com.evernote&hl=en)
+[<i class="fa fa-apple"></i> iPhone](https://itunes.apple.com/us/app/evernote/id281796108?mt=8)
 
 ### Trello Boards
 
@@ -54,18 +58,18 @@ Each person you invite, can access the board you invite her to, but not any of t
 
 I love to use Trello Boards to keep to track of goals. You can also use Trello to make and share travel plans, as I'm doing with my girlfriend. Finally, it's perfect for simple to-do lists.
 
-[Android](https://play.google.com/store/apps/details?id=com.trello&hl=en)
-[iPhone](https://itunes.apple.com/us/app/trello-organize-anything/id461504587?mt=8)
+[<i class="fa fa-android"></i> Android](https://play.google.com/store/apps/details?id=com.trello&hl=en)
+[<i class="fa fa-apple"></i> iPhone](https://itunes.apple.com/us/app/trello-organize-anything/id461504587?mt=8)
 
 ### Google Calendar
 Diet and nutrition. Notification reminder to drink a bunch of water when I first wake up and to take my supplements. 
 
 I forget my Vitamin D more often than I remembered it. But since setting a daily, re-occurring Google Calendar event titled "Drink Water & Take Supplements" that goes off in the morning, I've been able to build a habit 
 
-[Android]()
-[iPhone]()
+[<i class="fa fa-android"></i> Android]()
+[<i class="fa fa-apple"></i> iPhone]()
 
-## Tools for Training the Mind
+## Tools to Enhance Your Mindset
 
 Once you've got things figured out, it's time to take yourself to the next level.
 
@@ -83,8 +87,8 @@ Josh Waitzkin highly recommended Headspace to me.
 
 Although I've used the trial period of the app before for myself and my wrestlers, Josh has convinced me to put this fantastic tool back in my daily rotation.
 
-[Android]()
-[iPhone]()
+[<i class="fa fa-android"></i> Android]()
+[<i class="fa fa-apple"></i> iPhone]()
 
 ### Brain N-Back
 
@@ -98,8 +102,8 @@ Dual N-Back are the only games that have been shown to improve working memory an
 
 It's not easy, but then again, easy workouts don't help us get better!
 
-[Android](https://play.google.com/store/apps/details?id=phuc.entertainment.dualnback)
-[iPhone](https://itunes.apple.com/us/app/dual-n-back/id512296400?mt=8)
+[<i class="fa fa-android"></i> Android](https://play.google.com/store/apps/details?id=phuc.entertainment.dualnback)
+[<i class="fa fa-apple"></i> iPhone](https://itunes.apple.com/us/app/dual-n-back/id512296400?mt=8)
 
 ### Duolingo
 
@@ -109,15 +113,15 @@ I recently had the good fortune to practice my Spanish with a wrestler from Arge
 
 After both experiences I felt sharper, my mind felt more nimble and I was excited by these opportunities for connection that wouldn't have come up, if I was unwilling to practice a new language.
 
-Besides these opportunities to expand your horizon, there are more tangible benefits of learning a new language too:
+Besides these opportunities to expand your horizon, there are more [tangible benefits of learning a new language](http://www.spring.org.uk/2013/09/10-superb-psychological-advantages-of-learning-another-language.php) too:
 * Improved attention
 * Boosted memory
 * Faster brain growth
-http://www.spring.org.uk/2013/09/10-superb-psychological-advantages-of-learning-another-language.php
 
 Unfortunately Duolingo doesn't have every language available, but it's free. So we take what we can get... 
 
 Languages available in Duolingo for English Speakers:
+
 * Spanish
 * French
 * Portuguese
@@ -128,8 +132,8 @@ Languages available in Duolingo for English Speakers:
 * Danish
 * Swedish
 
-[Android]()
-[iPhone]()
+[<i class="fa fa-android"></i> Android](https://play.google.com/store/apps/details?id=com.duolingo&hl=en)
+[<i class="fa fa-apple"></i> iPhone](https://itunes.apple.com/us/app/duolingo-learn-languages-for/id570060128?mt=8)
 
 ## Tools to Track your Success
 
@@ -142,48 +146,61 @@ Well, Sleep As Android is here to save the day.
 
 The triple whammy of white noise generation, sleep pattern tracking and an alarm clock that only wakes you when you are on the light end of your sleep cycle
 
-[Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep&hl=en)
-[iPhone](https://itunes.apple.com/us/app/sleep-cycle-alarm-clock/id320606217?mt=8&ign-mpt=uo%3D2)
+[<i class="fa fa-android"></i> Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep&hl=en)
+[<i class="fa fa-apple"></i> iPhone](https://itunes.apple.com/us/app/sleep-cycle-alarm-clock/id320606217?mt=8&ign-mpt=uo%3D2)
 
 ### Fitbit
-afijasdlfj
+My finance, and seemingly the rest of her family, is obsessed with fitbit. From observing their behavior, I think Fitbit's killer feature is the Connect With Friends capability. It gamifies your fitness, making every step you take another point in a competition with friends and family. 
 
-[Android]()
-[iPhone]()
+Of course, the [Fitbit App](https://www.fitbit.com/app) does quiet a bit more than that. It helps you:
 
-## Tools to Automate your Life (so you can focus on the important stuff)
+* Track All-Day Activity
+* Log Food
+* Record Runs, Workouts and Sleep
+* Set Goals
+* And more good stuff
 
-### IF and DO
+[<i class="fa fa-android"></i> Android](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
+[<i class="fa fa-apple"></i> iPhone](https://itunes.apple.com/us/app/fitbit-activity-calorie-tracker/id462638897)
+
+## Tools To Automate Your Life (so you can focus on the important stuff)
+
+### IF
 Remember the iconic black turtleneck and jeans of Steve Jobs? There's a reason he wore that outfit every day. It was to eliminate all the little decisions (like picking what clothes to wear) that aren't a part of his focus.
 
 IF helps you automate the electronic versions of those decisions. This background automation is accomplished with recipes. IF is dependent on a simple phrase: if this then that. Sample IF recipe:
+
+[Insert Recipe Image]
 
 (Yes, I see the irony of showing a automation example with Instagram, when I started this post with a rant against Instagram. Just checking to see if you're paying attention.)
 
 IF is made by IFTTT, a company that gives you control and automates your "electronic life".
 
-[Android]()
-[iPhone]()
+[<i class="fa fa-android"></i> Android](https://play.google.com/store/apps/details?id=com.ifttt.ifttt)
+[<i class="fa fa-apple"></i> iPhone](https://itunes.apple.com/us/app/ifttt/id660944635)
 
 ### Fancy Hands
 Another option for offloading the tasks that don't add value to your personal mission. 
 
 The more time you have to focus on the 4 pillars of mindset, fitness, technique and nutrition, the faster your performance will improve. 
 
-Use my [Fancy Hands referrall](http://fncy.it/19PVAFy) link for half off your first month. Ripped right off the site, here's what's best about fancy hands:
+Use my [Fancy Hands referral](http://fncy.it/19PVAFy) link for half off your first month. Ripped right off the site, here's what's best about fancy hands:
 
 * We’re more friendly than a fist bump
 * We’re more dependable than a handshake
 * We’ll tackle any task you can imagine, within the bounds of science and the law
-* We’re smoother than Bill Withers' “[Grandma’s Hands](https://www.youtube.com/watch?v=qv5pagal-ls)”
+* We’re smoother than Bill Withers' “Grandma’s Hands"
 
-[Android]()
-[iPhone]()
+https://www.youtube.com/watch?v=qv5pagal-ls
 
----
+[<i class="fa fa-android"></i> Android](https://play.google.com/store/apps/details?id=com.fancyhands.android&hl=en)
+[<i class="fa fa-apple"></i> iPhone](https://itunes.apple.com/us/app/fancy-hands/id592807377?mt=8)
 
-## Conclusion
+## How To Get Started
 
+The 15th century poet Kabir said, “Wherever you are that’s the entry point.” 
+For me it was with a broken phone. 
 
+There are so many ways to begin, begin where you are.
 
-
+One way to get started and use your phone with more purpose is to sign up for [my newsletter](https://flowathletics.com/newsletter/) on optimizing performance and living life in the flow state.
