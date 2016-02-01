@@ -1,47 +1,53 @@
 ## 5 Reason To Be A Fintech Developer. And How To Start.
 
+This post is intended for developers or would be develops that are trying to decide what industry they should focus on. 
+
 ### 1. Highest salaries
-The highest salaries in finance are for [developers](http://www.monster.com/career-start/a/5-best-paying-jobs-financial-services) and the highest salaries for developers are in (finance)[].
+The highest salaries in finance are for developers and the highest salaries for developers are in finance. [1]
 
-The salary for a Senior Software Engineer in finance is $106,882.
+According to [the Bureau of Labor Statistics](http://www.bls.gov/oes/current/oes151134.htm), these industries pay developers the most money: 
+- Finance 
+- Machine Manufacturing (i.e. Semiconductor and Other Electronic Component Manufacturing)   
+- And not surprisingly, I.T. and Software Technology (i.e. Software Publishers) 
 
-Based on my research, freelance rates for fintech developers are higher too. Here's some instructive data:
+The average salary for a Senior Software Engineer in finance is $106,882. Not bad.
 
-
-### 2. Ton of growth
+### 2. Tons of growth
 
 [insert google trends pic]
 
-Global investment in financial technology ventures tripled from $1 to $3 billion between 2008 and 2013. This figure is expected to grow to $7 billion by 2018. 
+In 2014, venture capitalists invested $48.3 billion in 4,356 deals. At the same time, investments into fintech startups quadrupled, growing from just over $3 billion in 2013 to over $12 billion in 2014[2],[3]. 
 
-These numbers are crazy. Compare that to total technology ventures:
-x billion
-and tech venture growth. 
+Fintech has very quickly  become a signification percentage of for tech investment allocation. 
 
-Finance investing in technology, fintech investments quadruple - http://www.forbes.com/sites/chancebarnett/2015/07/22/fintech-investments-quadruple-top-trends-to-watch/
-
-As it stand to reason, competition from all these fintech startups is forcing the incumbents to invest in top engineering talent. Goldman Sachs, for example, is arguably more tech than finance these days. Of about 33,000 full-time employees at the bank, 9,000 of them are engineers and programmers. 
+As it stand to reason, competition from all these fintech startups is also forcing the incumbents to invest in top engineering talent. Goldman Sachs, for example, is arguably more tech than finance these days. Of about 33,000 full-time employees at the bank, 9,000 of them are engineers and programmers. 
 
 That's more engineers than Facebook, Twitter or LinkedIn! 
 
-### 3. Financial Inclusion
-But, even if you're motivated by more altruistic reasons, don't close the tab just yet ...
+### 3. Financial Exclusion vs. Inclusion 
+That said, if you're motivated by more altruistic reasons, don't close this tab just yet ...
 
-It's fun to think of financial companies as evil corporations. However, the other side of that coin are those suffering from a lack of financial inclusion. Imagine not being able to open a bank account, save your money safely, pay with a credit card or get insurance. 
+It's fun to think of financial companies as evil corporations. However, the other side of that coin are the millions suffering from financial exclusion. 
 
-In Sub-Saharan Africa only 24% of adults have a bank account. Building fintech products can help under-served and underdeveloped markets, you can increase financial inclusion, you can [change the world](https://www.techinasia.com/fintech-change-world/).
+Allow me to quote Wikipedia real quick: 
+
+> Financial inclusion or inclusive financing is the delivery of financial services at affordable costs to sections of disadvantaged and low-income segments of society, in contrast to financial exclusion where those services are not available or affordable.
+
+Imagine not being able to open a bank account, save your money safely, pay with a credit card or get insurance. 
+
+Sure becoming a fintech develop can make you a lot of money. But that's not all - your fintech products can help under-served and underdeveloped markets, you can increase financial inclusion, you can [change the world](https://www.techinasia.com/fintech-change-world/).
 
 ### 4. Innovative work being done
-Maybe you're only knowledge of fintech is using bitcoins to buy reddit gold? 
+Maybe your only knowledge of fintech is using bitcoins to buy reddit gold? 
 
-Well, as legendary venture capitalist Marc Andreessen points out, blockchain can potentially eliminate the need for any sort of third party – be it a bank or a governmental agency – to guarantee the exchange of any sort of digital or physical asset. Cut out middle man costs and vastly increase the financial autonomy of individuals. That's revolutionary stuff, right?
+Well, there's a bit more to it. As legendary venture capitalist Marc Andreessen points out, blockchain can potentially eliminate the need for any sort of third party – be it a bank or a governmental agency – to guarantee the exchange of any sort of digital or physical asset. Cut out middle man costs and vastly increase the financial autonomy of individuals. That's revolutionary stuff, right?
 
 Just a few of the cutting edge ideas and technologies being explored in fintech today: 
 
- - complexity of trading algorithms
- - cybersecurity
+ - complex trading algorithms
  - blockchain innovations
- - quantom cryptology 
+ - quantom cryptology
+ - AI hedge funds 
 
 So, if you like a good challenge, fintech might be for you.
 
@@ -51,30 +57,27 @@ Financial services companies are some of richest in the world, it's true. But th
 
 By the nature of being so old, these companies have tons of legacy technology. 
 
-This is one of the main the reason fintech startups are having success against established players. Current tech best practices were not established at the time of create for many legacy systems.
+This is one of the main reason fintech startups are having success against established players. Current tech best practices were not established at the time of creation for many legacy systems.
 
-Room for improvement also means there's room for opportunities. Bank of New York, for example, just recently opened the BNY Mellon Innovation Center - an office focused on emerging technologies, big data, digital and cloud-based projects.
+Room for improvement also means there's room for opportunities. The same Bank of New York, for example, just recently opened the BNY Mellon Innovation Center - an office focused on emerging technologies, big data, digital and cloud-based projects.
 
 Now, more than ever, fintech should be a go to focus for developers.
 
 ## How? Join the Open Source Movement
-I think for a lot of developers, fintech can seem like a closed, impenetrable community, and the only way to enter is the traditional (tedious) route of working your way into the industry: interview with a big firm, start at the bottom and become just another number. 
+I think for a lot of developers, fintech can seem like a closed, impenetrable community, and the only way to enter is the traditional (tedious) route of working your way into an industry: interview with a big firm, start at the bottom and become just another number. 
 
-But it's easy to get involved with an open source platform, and the next time a you see a job offering asking if you've worked with that platform before ... not only have you worked with it, you helped build it!
+On the other hand, it's easy to get involved with an open source platform, and the next time a you see a job offering asking if you've worked with that platform before ... not only have you worked with it, you helped build it!
 
-http://www.businessinsider.com/why-developers-contribute-to-open-source-projects-2015-6
+Of course, if you're a modern day developer, this [isn't a new concept for you](http://www.businessinsider.com/why-developers-contribute-to-open-source-projects-2015-6). We all use open source technologies in our work-flow and most of us have  contributed (or at least thought about contributing) to some of our favorite projects.
 
-Of course, if you're a modern day developer, this isn't a new concept for you. We all use open source technologies in our work-flow and most of us have  contributed (or at least thought about contributing) to some of our favorite projects.
+Why not contribute to some fintech projects? It can be a great learning opportunity and make you more valuable to fintech recruiters. 
 
-Why not contribute to some fintech projects. It can be a great learning opportunity and make you more valuable to fintech recruiters. 
-
-I put together a by-the-numbers presentation, the shows just how impaction open source has been and will be on the fintech industry.
+As a final "argument", I put together a by-the-numbers presentation that shows just how impactful open source has been and will be on the fintech industry.
 
 [insert slideshare deck]
 
 
 ## Open Source Software To Explore
-
 So, you're convinced in exploring open source fintech. But where to start? Here are a few of the more successful OOS fintech projects I'm familiar with:
 
 ### Open Gamma - Market Risk
@@ -111,11 +114,17 @@ I want to especially encourage you to get involved with wealthbot.io
 
 As CEO of wealthbot.io, I believe we are here at the right time. The virtual financial advisor movement shows no sign of slowing down and many, many wealth management firms are looking to build their own virtual presence.
 
-Just take a look at this McKinsey whitepaper if you don't believe me. 
+Just take a look at [this McKinsey whitepaper](http://www.mckinsey.com/client_service/financial_services/latest_thinking/wealth_management_publication_request_form) if you don't believe me. 
 
-To become virtual financial advisors, these firms will need developers and a platform. If you learn how to use and build for wealthbot, you will be the developer that can bring them both.
+To become virtual financial advisors, these firms will need developers and a platform. If you learn how to use and build for wealthbot.io, you will be the developer that can bring them both.
 
-Another nice thing about working with wealthbot.io - it's not a platform just for the enterprise. In fact, our mission is to help *independent* investment advisors. You can help an entrepreneur, a bootstrapped RIA, build her business from scratch.
+Another nice thing about working with wealthbot.io - it's not a platform just for the enterprise. In fact, our mission is to help *independent* investment advisors. You can help an entrepreneurial, a bootstrapped RIA build her business from scratch.
+
+
+Sources:
+[1] - http://www.monster.com/career-start/a/5-best-paying-jobs-financial-services
+[2] - http://nvca.org/pressreleases/annual-venture-capital-investment-tops-48-billion-2014-reaching-highest-level-decade-according-moneytree-report/
+[3] - http://www.forbes.com/sites/chancebarnett/2015/07/22/fintech-investments-quadruple-top-trends-to-watch/
 
 
 
